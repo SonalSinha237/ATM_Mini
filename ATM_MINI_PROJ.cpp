@@ -6,7 +6,7 @@ Features:
  -> Update mobile no
 */
 
-#include<bits/stdc++.h>
+//#include<bits/stdc++.h>
 #include<conio.h>
 #include<iostream>
 #include<string>
